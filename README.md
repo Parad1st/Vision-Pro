@@ -1,2 +1,2 @@
 # Vision-Pro
-Turn Your Google Cardboard Into Apple Vision Pro
+Скоро, но пока что учёба на первом месте!
